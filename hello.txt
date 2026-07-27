@@ -1,2 +1,2 @@
-Hello from Developer A
+Conflict version from Developer A
 Hello from Developer B
